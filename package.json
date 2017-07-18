@@ -1,0 +1,22 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "Official tutorial for ExpressJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ma0c/express-tutorial.git"
+  },
+  "author": "ma0c",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ma0c/express-tutorial/issues"
+  },
+  "homepage": "https://github.com/ma0c/express-tutorial#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
